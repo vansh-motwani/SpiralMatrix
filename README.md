@@ -66,3 +66,15 @@ The solution leverages recursion to find the last cell:
 3. Run the file using the following command:
    ```bash
    node spiralLastCell.js
+
+# Best Solution (o(1) space & time complexity)
+
+## 🚀 Algorithm
+### Based on Observation, Case Work done on previous recursive solution
+
+## 🔧 Complexity
+- **Time Complexity:** `O(1)`  
+  Direct calculations based on the size of the matrix.
+- **Space Complexity:** `O(1)`  
+  No extra data structures or storage requirements.
+
