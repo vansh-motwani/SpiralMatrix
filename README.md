@@ -38,7 +38,7 @@ The solution leverages recursion to find the last cell:
 
 ## Examples
 
-| Matrix Dimensions (n x m) | Last Cell (row, col) |
+| Matrix Dimensions (n x m) | Last Cell (row, col) (Ans in 0-based indexing) |
 |---------------------------|----------------------|
 | 4 x 4                     | (1, 2)              |
 | 6 x 4                     | (1, 2)              |
