@@ -6,7 +6,7 @@ This repository contains a recursive solution to find the last cell of an `n x m
 
 ## Problem Statement
 
-Given an `n x m` matrix, the goal is to determine the 0-indexed position (row, column) of the last cell in a spiral traversal. The spiral traversal starts from the top-left corner of the matrix, moving right, then down, left, and up, continuously shrinking the boundaries until the last cell is reached.
+Given an `n x m` matrix, the goal is to determine the 0-indexed position (row, column) of the last cell in a spiral traversal. The spiral traversal starts from the top-left corner of the matrix, moving down, then right, up, and left, continuously shrinking the boundaries until the last cell is reached.
 
 ---
 
